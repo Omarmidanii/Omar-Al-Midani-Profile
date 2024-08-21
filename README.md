@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **omarmidani90@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Omarmidanii/Omar-Al-Midani-](https://github.com/Omarmidanii/Omar-Al-Midani-)
+- 📄 Know about my experiences [https://github.com/Omarmidanii/Omar-Al-Midani-](https://github.com/Omarmidanii/Omar-Al-Midani-Profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
