@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarmidanii" alt="omarmidanii" /></a> </p>
 
-- 🔭 I’m currently working on [The_Magic_Of_The_East](https://github.com/Omarmidanii/The_Magic_Of_The_East)
+- 🔭 I’m currently working on [The_Magic_Of_The_East](https://github.com/Omarmidanii/The-Magic-of-The-East)
 
 - 🌱 I’m currently learning **New Stuff in Laravel & React and how to connect these stuff between them**
 
